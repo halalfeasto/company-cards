@@ -1,0 +1,44 @@
+{
+  "ceo": {
+    "name": "Sam",
+    "title": "Chief Executive Officer",
+    "phone": "646-577-2804",
+    "email": "halalfeasto@gmail.com"
+  },
+  "business-analyst": {
+    "name": "Kal",
+    "title": "Business and Data Analyst",
+    "phone": "716-259-7368",
+    "email": "info.halalfeasto@gmail.com"
+  },
+  "cfo": {
+    "name": "Amin",
+    "title": "Chief Financial Officer",
+    "phone": "917-622-9049",
+    "email": "info.halalfeasto@gmail.com"
+  },
+  "area-manager": {
+    "name": "J",
+    "title": "Area Manager",
+    "phone": "716-306-0136",
+    "email": "info.halalfeasto@gmail.com"
+  },
+  "store-buffalo": {
+    "name": "Rumon",
+    "title": "Store Manager \u2013 Buffalo",
+    "phone": "716-305-8491",
+    "email": "info.halalfeasto@gmail.com"
+  },
+  "store-tonawanda": {
+    "name": "Newaz",
+    "title": "Store Manager \u2013 Tonawanda",
+    "phone": "813-509-3448",
+    "email": "info.halalfeasto@gmail.com"
+  },
+  "store-virginia": {
+    "name": "Eco",
+    "title": "Store Manager \u2013 Virginia",
+    "phone": "929-413-9250",
+    "email": "info.halalfeasto@gmail.com"
+  }
+}
